@@ -11,7 +11,8 @@
 ### C++ (problem solving) - middle;
 ### html/css/js (react) - basic/middle;
 
-### Code: weather website ( used API requests ) https://github.com/Matuta14/Weather/blob/master/weather.html
+### Code: weather website ( used API requests ) 
+### https://github.com/Matuta14/Weather/blob/master/weather.html
 
 ### Experiences:
 ### Small game progects - hangMan, breakout... (language - Java)
