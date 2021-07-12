@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://matuta14.github.io/rsschool-cv/cv
